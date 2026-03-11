@@ -11,6 +11,11 @@
 - Programming fundamentals
 - Logical thinking and problem solving
 
+### 💻 Tech Stack
+- Python
+- Git & GitHub
+- Basic programming concepts
+
 ### 🚀 Goals
 - Improve programming skills
 - Build beginner projects

@@ -16,4 +16,4 @@
 - Build beginner projects
 - Participate in hackathons and tech workshops
 
-⭐ Always curious to learn new things and grow step by step.
+⭐ Always curious to learn, explore, and grow step by step.
